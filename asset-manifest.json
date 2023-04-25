@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/movieDay/static/css/main.cbe54fdf.css",
+    "main.js": "/movieDay/static/js/main.a1737c3a.js",
+    "index.html": "/movieDay/index.html",
+    "main.cbe54fdf.css.map": "/movieDay/static/css/main.cbe54fdf.css.map",
+    "main.a1737c3a.js.map": "/movieDay/static/js/main.a1737c3a.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.cbe54fdf.css",
+    "static/js/main.a1737c3a.js"
+  ]
+}
